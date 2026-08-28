@@ -1,73 +1,10 @@
 # MasteryHub ITS
 
-Welcome to MasteryHub ITS! We are a dynamic startup software house that provides innovative and reliable software solutions. Our talented developers, designers, and project managers collaborate to turn your ideas into reality.
+Engineering studio in Egypt. We build MVPs, web and mobile products, and cloud software for startups and teams across MENA and worldwide.
 
-## Table of Contents
+[masteryhub-its.com](https://masteryhub-its.com) · [contact@masteryhub-its.com](mailto:contact@masteryhub-its.com) · [LinkedIn](https://www.linkedin.com/company/masteryhub-its)
 
-- [About Us](#about-us)
-- [Services](#services)
-- [Our Process](#our-process)
-- [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Contact](#contact)
+## Public work
 
-## About Us
-
-MasteryHub ITS is a startup software house founded in 2024. Our mission is to deliver high-quality software solutions that drive business growth and efficiency. We specialize in a wide range of technologies and cater to various industries.
-
-## Services
-
-At MasteryHub ITS, we offer a comprehensive suite of services:
-
-- **Custom Software Development**: Tailored solutions to meet your unique business needs.
-- **Web Development**: Responsive and scalable web applications.
-- **Mobile App Development**: Native and cross-platform mobile apps.
-- **UI/UX Design**: Intuitive and user-friendly designs.
-- **Cloud Solutions**: Deployment and management of cloud-based systems.
-- **Consulting Services**: Expert advice to guide your technology strategy.
-
-## Our Process
-
-Our development process is designed to ensure the highest quality and satisfaction:
-
-1. **Discovery & Planning**: Understanding your requirements and goals.
-2. **Design**: Crafting user-centric designs and prototypes.
-3. **Development**: Building robust and scalable applications.
-4. **Testing**: Rigorous testing to ensure reliability and performance.
-5. **Deployment**: Seamless integration and launch.
-6. **Maintenance & Support**: Ongoing support to keep your software running smoothly.
-
-## Projects
-
-We have successfully delivered projects across various domains, including:
-
-- E-commerce platforms
-- Enterprise resource planning (ERP) systems
-- Customer relationship management (CRM) solutions
-- Healthcare applications
-- Financial technology (FinTech) solutions
-- And More
-
-## Getting Started
-
-If you are interested in working with us or have a project in mind, follow these steps to get started:
-
-1. **Contact Us**: Reach out to us via [contact information below].
-2. **Initial Consultation**: We'll schedule a meeting to discuss your needs and how we can help.
-3. **Proposal & Agreement**: We'll provide a detailed proposal and work on finalizing the agreement.
-4. **Project Kickoff**: We'll start the project with a kickoff meeting to align expectations and timelines.
-
-## Contact
-
-We'd love to hear from you! Feel free to reach out to us:
-
-- **Email**: contact@MasteryHub ITS.com
-- **Phone**: +123-456-7890
-- **Address**: Nasr City, Cairo, Egypt
-- **Website**: [www.MasteryHub ITS.com](http://www.MasteryHub ITS.com)
-- **LinkedIn**: [MasteryHub ITS LinkedIn](https://www.linkedin.com/company/MasteryHub ITS)
-- **Twitter**: [@MasteryHub ITS](https://twitter.com/MasteryHub ITS)
-
----
-
-Thank you for considering MasteryHub ITS for your software development needs. We look forward to partnering with you to create outstanding software solutions!
+- [AFFiNE for VS Code](https://github.com/masteryhub-its/affine-vscode-extension) — browse and preview pages on self-hosted AFFiNE or AFFiNE Cloud
+- [Plane for VS Code](https://github.com/masteryhub-its/plane-vscode-extension) — manage Plane issues from the editor
